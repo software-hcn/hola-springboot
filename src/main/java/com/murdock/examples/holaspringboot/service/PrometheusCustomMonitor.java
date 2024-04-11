@@ -1,4 +1,4 @@
-package com.murdock.examples.holaspringboot;
+package com.murdock.examples.holaspringboot.service;
 
 import io.micrometer.core.instrument.Counter;
 import io.micrometer.core.instrument.DistributionSummary;

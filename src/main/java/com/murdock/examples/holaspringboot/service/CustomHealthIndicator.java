@@ -1,4 +1,4 @@
-package com.murdock.examples.holaspringboot;
+package com.murdock.examples.holaspringboot.service;
 
 import org.springframework.boot.actuate.health.AbstractHealthIndicator;
 import org.springframework.boot.actuate.health.Health;

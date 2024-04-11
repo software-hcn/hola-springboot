@@ -1,5 +1,6 @@
-package com.murdock.examples.holaspringboot;
+package com.murdock.examples.holaspringboot.exception;
 
+import com.murdock.examples.holaspringboot.service.PrometheusCustomMonitor;
 import jakarta.annotation.Resource;
 import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;
